@@ -1,0 +1,8 @@
+.user-info {
+    border: 1px solid green;
+    border-radius: 25px;
+    background-color: beige;
+    padding: 15px;
+    margin: 20px;
+    width: 250px;
+}

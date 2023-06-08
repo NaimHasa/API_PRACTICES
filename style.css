@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.detelis {
+    border: 1px solid greenyellow;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 25px;
+    background-color: beige;
+}
