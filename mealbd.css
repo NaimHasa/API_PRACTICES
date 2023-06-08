@@ -1,0 +1,46 @@
+.header-title {
+    text-align: center;
+    margin: 15px;
+    font-size: 25px;
+    font-weight: 800;
+    color: green;
+}
+
+.mainCcontainer {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+
+}
+
+.col {
+    border: 1px solid green;
+    padding: 25px;
+    margin: 15px;
+    border-radius: 25px;
+    background-color: bisque;
+    width: 250px;
+    height: 370px;
+}
+
+.col img {
+    width: 100%;
+}
+
+.search-filed {
+    text-align: center;
+}
+
+.detelis-container {
+    border: 1px solid green;
+    padding: 25px;
+    margin: 15px;
+    border-radius: 25px;
+    background-color: bisque;
+    width: 250px;
+    height: 370px;
+}
+
+.detelis img {
+    width: 100%;
+}
